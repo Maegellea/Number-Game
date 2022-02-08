@@ -8,7 +8,7 @@ You need to type a 4 digit number with different numbers. If a number in the num
 
 ### For-Example
 
-Lets say computer choosed 1932 and you type 1967. Then the output is [2]<br />
+Lets say computer choose 1932 and you type 1967. Then the output is [2]<br />
 If computer choosed 2190 and you type 2493, output is: [1,-1]
 
 Examples:
