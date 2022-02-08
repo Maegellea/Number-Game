@@ -1,6 +1,5 @@
 import random 
 
-
 while True:
     val = input("1-Play\n2-Exit\n: ")
     if val == "1":
@@ -45,17 +44,13 @@ while True:
             
             for i in str(arc):
                 if str(arc).count(i) > 1:
-                    error.append(i)
-            
-            
+                    error.append(i)                   
 
             if int(arc) < 1000 or int(arc) > 9999:
                 print("The number should be 4 digit")
             else:
                 if len(error) > 0 :
-                    print("You should type with using different numbers!")
-
-            
+                    print("You should type with using different numbers!")          
                 
                 if len(error) == 0 :
                     
