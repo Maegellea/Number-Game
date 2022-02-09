@@ -9,12 +9,14 @@ You need to type a 4 digit number with different numbers. If a number in the num
 ### For-Example
 
 Lets say computer choose 1932 and you type 1967. Then the output is [2]<br />
-If computer choosed 2190 and you type 2493, output is: [1,-1]
+If computer choose 2190 and you type 2493, output is: [1,-1]
 
 Examples:
-> 1234 - 5678 : [0] 
+>1234 - 5678 : [0] 
 
 >5479 - 5478 : [3]
+
+>3428 - 9432 : [1,-2]
 
 >6397 - 9673 : [-4]
 
